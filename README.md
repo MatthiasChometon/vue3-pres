@@ -5,12 +5,14 @@
 Vue est un framework front web. Il fait partie des technologies les plus utilisés pour le rendu de page web avec React ou Angular.
 Les composants en vue sont composés d'une balise <template> et d'une balise <script>. La balise template contient le rendu visuel du composant. La balise script contient la logique du composant :
 
+```vue
 <template>
   <div>
     je suis un composant
   </div>
 </template>
-
+```
+  
 <script>
   ....states, méthodes....
 </script>
